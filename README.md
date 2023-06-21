@@ -95,7 +95,7 @@
    <p> Foram criadas duas tabelas denominadas CLIENTES e OCORRENCIA.</p>
    
    <p> Na tabela CLIENTES foi utilizada a seguinte estrutura: </p><br>
-  <img src="https://github.com/2023-1-NADS1/B02-SecureHer/blob/main/imagens/Banco%20de%20Dados/CLIENTES.PNG?raw=true" width= 500px height= 300px> <br>
+  <img src="https://github.com/2023-1-NADS1/B02-SecureHer/blob/main/imagens/Banco%20de%20Dados/CLIENTES.PNG?raw=true"> <br>
   
   <p> Onde o CPF foi utilizada como PRIMARY KEY da tabela e o email como UNIQUE, para evitar duplicidade de cadastros. </p>
   <p> É de conhecimento do grupo que a tabela NÃO respeita as formas normais, porém, como o foco do projeto é o IoT e o APP, deixamos a tabela desta forma. </p>
